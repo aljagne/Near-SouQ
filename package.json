@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "asbuild": "^0.2.0",
+    "assemblyscript": "^0.20.4",
+    "global": "^4.4.0",
+    "near-cli": "^3.2.0"
+  },
+  "name": "near-souq",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:aljagne/Near-SouQ.git",
+  "author": "aljagne <ajagne01@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "near-sdk-as": "^3.2.3"
+  }
+}
